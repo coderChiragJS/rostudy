@@ -17,3 +17,7 @@ Make sure you have Node.js and npm installed on your machine.
    ```bash
    [git clone ](https://github.com/coderChiragJS/rostudy.git)
    cd my-app
+
+  npm install 
+
+   npm run dev 
