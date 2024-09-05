@@ -75,15 +75,6 @@ const AppLayout = ({ children }) => {
             <Menu.Item key="1" icon={<UserOutlined />}>
               Dashboard
             </Menu.Item>
-            <Menu.Item key="2" icon={<LaptopOutlined />}>
-              Products
-            </Menu.Item>
-            <Menu.Item key="3" icon={<NotificationOutlined />}>
-              Orders
-            </Menu.Item>
-            <Menu.Item key="4" icon={<SettingOutlined />}>
-              Settings
-            </Menu.Item>
           </Menu>
         </Sider>
 
